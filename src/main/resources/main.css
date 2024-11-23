@@ -1,0 +1,33 @@
+* {
+    /* Using the Poppins font from Google Fonts */
+    -fx-font-family: "Poppins";
+}
+
+.button {
+    -fx-background-color: #555555;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 5px 10px;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #777777;
+}
+
+.label {
+    -fx-font-size: 14px;
+}
+
+.grid-cell {
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-alignment: center;
+    -fx-cursor: hand;
+}
+
+.grid-cell:odd {
+    -fx-background-color: lightblue;
+}
