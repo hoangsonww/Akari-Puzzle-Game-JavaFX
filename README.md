@@ -6,6 +6,12 @@ Welcome to **The Akari Puzzle Game**, a JavaFX-based implementation of the class
 
 - [Overview](#overview)
 - [User Interface](#user-interface)
+  - [Welcome Screen](#welcome-screen)
+  - [Game Screen](#game-screen)
+  - [Instructions Screen](#instructions-screen)
+  - [Puzzle Solved](#puzzle-solved)
+  - [Hints](#hints)
+  - [Demo GIF](#demo-gif)
 - [Features](#features)
 - [Game Rules](#game-rules)
 - [Controls](#controls)
@@ -54,6 +60,12 @@ The game follows the **Model-View-Controller (MVC)** architecture, with separate
 
 <p align="center">
   <img src="img/hint.png" alt="Hint System" width="100%" style="border-radius: 8px;">
+</p>
+
+### Demo GIF
+
+<p align="center">
+  <img src="img/demo.gif" alt="Demo GIF" width="100%">
 </p>
 
 ## Features
